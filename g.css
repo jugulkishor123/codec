@@ -1,0 +1,62 @@
+/* corlor fonts  */
+p{
+    color: black;
+    background-color: rgb(64, 226, 43);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    border-radius: 12px;
+    
+    
+    height: auto;
+}
+/* this is used for id and class */
+#man{
+    color: rgb(7, 7, 7);background-color: aqua;
+    border: 2px solid;
+    height: 250px;
+    width: 200px;
+    border-radius: 11px;
+    background-image: url(https://source.unsplash.com/random/200x200?sig=3);
+    image position: center - center;
+ font-style:italic;
+}
+.mans{
+    color: rgb(16, 19, 16);background-color: rgb(128, 82, 27);
+border-style: solid;
+border-radius: 13px;
+border-top: 3px red solid;
+background-image: url();
+}
+#first{
+    color: brown;background-color: aquamarine;
+    border-radius: 3px;border: black solid;
+}
+/* box explaination margin pading element */
+.container{
+    background-color: darkcyan;
+    border: 3px red solid;
+    /* this is about padding /Margin also TRBL */
+    padding: 15px 20px 30px 40px;
+    margin: 55px;
+}
+/* float explaination */
+.container1{
+    background-color: aqua;
+border: 3px black solid;border-style: solid;
+border-radius: 8px;
+padding: 12px;
+margin: auto;
+font-style: italic;
+}
+.items{
+    border: 3px red solid;border-radius: 1600px;
+    margin: 12px 3px;
+    padding: 12px 15px 16px 20px;
+}
+#fruitpara{
+float: 50%;
+}
+#books{
+float: 100%;
+}
